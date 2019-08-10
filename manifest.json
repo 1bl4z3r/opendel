@@ -1,0 +1,20 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "OpenDEL",
+    "scope" : "/opendel/",
+    "display" : "standalone",
+    "start_url" : "https://1bl4z3r.github.io/opendel/",
+    "short_name" : "OpenDEL",
+    "theme_color" : "transparent",
+    "description" : "At OpenDEL, we are constantly finding ways which our Current World lacks. We try to fix using the existing Technology and Scientific breakthroughs, And the present Framework, for our entirely community driven projects. ",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://1bl4z3r.github.io/opendel/favicon.png",
+            "sizes": "12x12"
+        }
+    ]}
